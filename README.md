@@ -3,4 +3,5 @@
 #### It will include the summary from me for every lecture and the exercise with solution from me as well. For the teaching material (videos and PPTs), please look up in [this website](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/).
 
 ### Reference
-#### Show my highly respect for [Prof. Andreas Geiger](https://www.cvlibs.net/) for providing such a high quality course!  
+#### Show my highly respect for [Prof. Andreas Geiger](https://www.cvlibs.net/) for providing such a high quality course!
+#### The pictures in my summary without citation are all from [Prof. Andreas Geiger](https://www.cvlibs.net/)'s PPTs. 

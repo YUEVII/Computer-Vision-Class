@@ -3,7 +3,7 @@
 #### It will include the summary from me for every lecture and the exercise with solution from me as well. For the teaching material (videos and PPTs), please look up in [this website](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/).
 
 ### Attention
-#### I find there this a problem with the display of mathematical formulas in markdown format in github website. I recommend download the `.md` file to have a look in local IDEs i.e. vscode(need extension) or typoea for better viewing exerience. Sorry for any inconvenience caused.
+#### I find there this a problem with the display of mathematical formulas in markdown format in github website. I recommend to download the `.md` file to have a look in local IDEs i.e. vscode(need extension) or typora for better viewing exerience. Sorry for any inconvenience caused.
 
 
 ### Reference
